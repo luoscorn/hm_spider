@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d7e366-02d0-4577-803a-737aa8bd15cb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hm_spider$ck.coverage" NAME="ck Coverage Results" MODIFIED="1558344904072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider/spiders/ck" />
+    <SUITE FILE_PATH="coverage/hm_spider$spiders.coverage" NAME="spiders Coverage Results" MODIFIED="1557214743308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider/base" />
+    <SUITE FILE_PATH="coverage/hm_spider$debug.coverage" NAME="debug Coverage Results" MODIFIED="1558684828086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider" />
+    <SUITE FILE_PATH="coverage/hm_spider$bershka.coverage" NAME="bershka Coverage Results" MODIFIED="1557049387575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider/spiders/bershka" />
+    <SUITE FILE_PATH="coverage/hm_spider$a6IXTY.coverage" NAME="a6IXTY Coverage Results" MODIFIED="1557916139137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider/spiders/6IXTY8IGHT" />
+    <SUITE FILE_PATH="coverage/hm_spider$ur.coverage" NAME="ur Coverage Results" MODIFIED="1557287380450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm_spider/spiders/ur" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost/mysql8" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost/mysql8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost/mysql8" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hm_spider: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hm_spider" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>category</find>
+      <find>cate</find>
+      <find>code</find>
+      <find>source_url</find>
+      <find>html</find>
+      <find>raw_products</find>
+      <find>title</find>
+      <find>robot</find>
+      <find>size_valid</find>
+      <find>tag</find>
+      <find>tags</find>
+      <find>redis</find>
+      <find>850</find>
+      <find>group</find>
+      <find>T</find>
+      <find>XCXWeixinMP</find>
+      <find>Updatere</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev_dl" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1POSSylSZhwTS1G7frDVpZ2na9J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\hm_spider\hm_django\hm_django\settings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\hm_spider\hm_spider\spiders" />
+      <recent name="F:\python\hm_spider\hm_spider\spiders\fiveplus" />
+      <recent name="F:\python\hm_spider\hm_spider\spiders\converse" />
+      <recent name="F:\python\hm_spider\hm_spider\spiders\ck" />
+      <recent name="F:\python\hm_spider\hm_spider\spiders\ca" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.debug">
+    <configuration name="a6IXTY" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider/spiders/6IXTY8IGHT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/spiders/6IXTY8IGHT/a6IXTY.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider/spiders/ck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/spiders/ck/ck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jackj" type="PythonConfigurationType" factoryName="Python">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider/spiders/jackj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/spiders/jackj/jj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spiders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/base/spiders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm_spider/spiders/ur" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_spider/spiders/ur/ur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.debug" />
+        <item itemvalue="Python.ck" />
+        <item itemvalue="Python.a6IXTY" />
+        <item itemvalue="Python.ur" />
+        <item itemvalue="Python.spiders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d7e366-02d0-4577-803a-737aa8bd15cb" name="Default Changelist" comment="" />
+      <created>1556418464304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556418464304</updated>
+      <workItem from="1556418465779" duration="2016000" />
+      <workItem from="1556421335960" duration="213000" />
+      <workItem from="1556421800930" duration="3969000" />
+      <workItem from="1556426375771" duration="2699000" />
+      <workItem from="1556432429844" duration="734000" />
+      <workItem from="1556437327820" duration="206000" />
+      <workItem from="1556438395866" duration="9919000" />
+      <workItem from="1556504191902" duration="11942000" />
+      <workItem from="1556518868212" duration="15385000" />
+      <workItem from="1556587327482" duration="2066000" />
+      <workItem from="1556589701210" duration="5037000" />
+      <workItem from="1556594845051" duration="8824000" />
+      <workItem from="1556608145007" duration="8591000" />
+      <workItem from="1556621825339" duration="1356000" />
+      <workItem from="1557019114301" duration="3100000" />
+      <workItem from="1557022460796" duration="2565000" />
+      <workItem from="1557025206479" duration="20116000" />
+      <workItem from="1557051646421" duration="2299000" />
+      <workItem from="1557105436759" duration="33932000" />
+      <workItem from="1557192224606" duration="27798000" />
+      <workItem from="1557278351930" duration="29403000" />
+      <workItem from="1557309682525" duration="1973000" />
+      <workItem from="1557312347470" duration="71000" />
+      <workItem from="1557364653479" duration="26284000" />
+      <workItem from="1557414008897" duration="1904000" />
+      <workItem from="1557451279900" duration="7136000" />
+      <workItem from="1557461474906" duration="10493000" />
+      <workItem from="1557710827660" duration="18277000" />
+      <workItem from="1557796809858" duration="8036000" />
+      <workItem from="1557818837918" duration="11537000" />
+      <workItem from="1557883608524" duration="16976000" />
+      <workItem from="1557906208933" duration="9997000" />
+      <workItem from="1557916267913" duration="4396000" />
+      <workItem from="1557969568576" duration="12293000" />
+      <workItem from="1557983671462" duration="8339000" />
+      <workItem from="1557994064817" duration="9223000" />
+      <workItem from="1558055860195" duration="7882000" />
+      <workItem from="1558063798966" duration="4465000" />
+      <workItem from="1558072974393" duration="10250000" />
+      <workItem from="1558083263260" duration="6435000" />
+      <workItem from="1558316108451" duration="3426000" />
+      <workItem from="1558320804062" duration="7690000" />
+      <workItem from="1558338851059" duration="6208000" />
+      <workItem from="1558345092192" duration="3614000" />
+      <workItem from="1558401791656" duration="33245000" />
+      <workItem from="1558488261495" duration="14701000" />
+      <workItem from="1558514348575" duration="4313000" />
+      <workItem from="1558519086061" duration="4158000" />
+      <workItem from="1558574319802" duration="23537000" />
+      <workItem from="1558661279930" duration="14153000" />
+      <workItem from="1558842473889" duration="26000" />
+      <workItem from="1564638313670" duration="598000" />
+      <workItem from="1564641682527" duration="140000" />
+      <workItem from="1565743655230" duration="572000" />
+      <workItem from="1565744312304" duration="1309000" />
+    </task>
+    <task id="LOCAL-00001" summary="zara修改">
+      <created>1557134704218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557134704218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zara 性别识别优化">
+      <created>1557136403183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557136403183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adidas优化">
+      <created>1557136426988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557136426988</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bershka修改">
+      <created>1557137269973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557137269973</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adidas修改 商品列表链接优化">
+      <created>1557212812257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557212812257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zara修改 商品列表链接优化">
+      <created>1557212840614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557212840614</updated>
+    </task>
+    <task id="LOCAL-00007" summary="zara修改 优化category、">
+      <created>1557214360933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557214360933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adidas修改 优化category">
+      <created>1557214646455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557214646455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="同步">
+      <created>1557219523920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557219523920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge branch 'dev_zjq' of code.aliyun.com:playneed/hm_spider into dev_dl&#10;&#10;# Conflicts:&#10;#&#9;hm_spider/spiders/hm/hm.py">
+      <created>1557220460478</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557220460478</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adidas修复">
+      <created>1557286049676</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557286049676</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zara修复">
+      <created>1557286079759</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557286079759</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ur修改cate">
+      <created>1557303950082</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557303950082</updated>
+    </task>
+    <task id="LOCAL-00014" summary="adidas修改start_url">
+      <created>1557303979238</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557303979238</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ur性别错误">
+      <created>1557310368299</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557310368300</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adidas修复翻页">
+      <created>1557370669987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557370669988</updated>
+    </task>
+    <task id="LOCAL-00017" summary="bersh kacate改">
+      <created>1557452456481</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557452456481</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adidas修改page页">
+      <created>1557453266455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557453266455</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new：新增爬虫6ixty">
+      <created>1557920042153</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1557920042153</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new：新增爬虫6ixty">
+      <created>1557920227328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557920227328</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix:adidas增加翻页">
+      <created>1557920271161</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557920271161</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix:修改格式">
+      <created>1557971859496</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557971859496</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix：修改爬虫6ixother字段">
+      <created>1558002912029</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1558002912029</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new:添加ck爬虫">
+      <created>1558002958365</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1558002958365</updated>
+    </task>
+    <task id="LOCAL-00025" summary="new:新增chark爬虫">
+      <created>1558089245075</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558089245076</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new:新增fp爬虫">
+      <created>1558089261977</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558089261977</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix：一系列小修复 不管">
+      <created>1558089294618</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558089294618</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix：一系列格式与字段修复">
+      <created>1558348682071</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558348682071</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix：一系列格式与字段修复">
+      <created>1558436158836</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558436158836</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix：一系列格式与字段修复">
+      <created>1558436179690</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558436179690</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix：修复新产品标记">
+      <created>1558607926198</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558607926198</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix：删除jj">
+      <created>1558685936709</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558685936710</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adidas修改 商品列表链接优化" />
+    <MESSAGE value="zara修改 商品列表链接优化" />
+    <MESSAGE value="zara修改 优化category、" />
+    <MESSAGE value="adidas修改 优化category" />
+    <MESSAGE value="同步" />
+    <MESSAGE value="Merge branch 'dev_zjq' of code.aliyun.com:playneed/hm_spider into dev_dl&#10;&#10;# Conflicts:&#10;#&#9;hm_spider/spiders/hm/hm.py" />
+    <MESSAGE value="adidas修复" />
+    <MESSAGE value="zara修复" />
+    <MESSAGE value="ur修改cate" />
+    <MESSAGE value="adidas修改start_url" />
+    <MESSAGE value="ur性别错误" />
+    <MESSAGE value="adidas修复翻页" />
+    <MESSAGE value="bersh kacate改" />
+    <MESSAGE value="adidas修改page页" />
+    <MESSAGE value="new：新增爬虫6ixty" />
+    <MESSAGE value="fix:adidas增加翻页" />
+    <MESSAGE value="fix:修改格式" />
+    <MESSAGE value="fix：修改爬虫6ixother字段" />
+    <MESSAGE value="new:添加ck爬虫" />
+    <MESSAGE value="new:新增chark爬虫" />
+    <MESSAGE value="new:新增fp爬虫" />
+    <MESSAGE value="fix：一系列小修复 不管" />
+    <MESSAGE value="fix：一系列格式与字段修复" />
+    <MESSAGE value="fix：修复新产品标记" />
+    <MESSAGE value="fix：删除jj" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix：删除jj" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/it/it.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/converse/converse.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/ixty8ight/ixty8ight.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/ck/ck.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/fiveplus/fiveplus.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_spider/spiders/jackj/jackj.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" language="Python" />
+        <watch expression="url" />
+        <watch expression="p._class" />
+        <watch expression="p.instance" />
+        <watch expression="__py_debug_temp_var_449569461" />
+        <watch expression="url" />
+        <watch expression="p._values['raw_products']" language="Python" />
+        <watch expression="p._values['raw_products']" language="Python" />
+        <watch expression="__py_debug_temp_var_375995961" />
+        <watch expression="item" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p._values['raw_products']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&lt;200 https://www.zara.cn/cn/zh/kids-girl-new-in-l391.html?v1=1186802&gt;</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>if instance is not None:</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>return cls._meta.managers_map[self.manager.name]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ProductMark.objects.create(product=product, price=product.price, mark_type=mark_type)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ProductMark.objects.get_or_create(product=product)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p['price']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p['other_style']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p['raw_products']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>__py_debug_temp_var_674704393</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>__py_debug_temp_var_443873098</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

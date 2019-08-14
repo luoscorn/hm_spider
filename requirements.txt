@@ -1,0 +1,34 @@
+Django==2.1.8
+djangorestframework==3.9.2
+djangorestframework-jwt==1.11.0
+Pillow==5.4.1
+django-cors-headers==2.5.2
+jsonfield==2.0.2
+django-filter==2.1.0
+django-rest-swagger==2.2.0
+django-redis==4.10.0
+django-celery-beat==1.4.0
+raven==6.10.0
+mysql==0.0.2
+weixin-python==0.5.5
+
+requests==2.21.0
+Scrapy==1.6.0
+scrapy-djangoitem==1.1.1
+scrapy-redis==0.6.8
+scrapyd==1.2.0
+scrapyd-client==1.1.0
+beautifulsoup4==4.7.1
+ipython==7.3.0
+
+pytest-django==3.4.8
+coverage==4.5.3
+unidecode==1.0.23
+
+# drf-haystack==1.8.4
+# elasticsearch<7.0.0
+
+elasticsearch==6.3.1
+elasticsearch-dsl==6.1.0
+django-elasticsearch-dsl==0.5.1
+django-elasticsearch-dsl-drf==0.17.6

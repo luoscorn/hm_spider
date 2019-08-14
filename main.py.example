@@ -1,0 +1,9 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
+# Created by flytrap
+from scrapy import cmdline
+
+# cmdline.execute("scrapy crawl hm".split())
+cmdline.execute("scrapy crawl nike".split())
+# cmdline.execute("scrapy runspider hm_spider/spiders/hm_update.py".split())
