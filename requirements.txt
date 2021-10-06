@@ -13,7 +13,7 @@ mysql==0.0.2
 weixin-python==0.5.5
 
 requests==2.21.0
-Scrapy==1.6.0
+Scrapy==1.8.1
 scrapy-djangoitem==1.1.1
 scrapy-redis==0.6.8
 scrapyd==1.2.0
