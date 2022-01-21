@@ -19,7 +19,7 @@ scrapy-redis==0.6.8
 scrapyd==1.2.0
 scrapyd-client==1.1.0
 beautifulsoup4==4.7.1
-ipython==7.3.0
+ipython==7.16.3
 
 pytest-django==3.4.8
 coverage==4.5.3
